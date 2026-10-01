@@ -13,9 +13,10 @@ Descrição dos arquivos adicionados na pasta E1-parte2.
 
 ## Como compilar
 
+`make`
 
 
 ## Como testar com os arquivos teste fornecidos.
 
-
+`./e1 < tests/exemplo1.in`
 
